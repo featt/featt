@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/170c9fb7-1762-459c-8ebc-77fcbbc5e76a.svg)](https://wakatime.com/@170c9fb7-1762-459c-8ebc-77fcbbc5e76a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=featt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=feat)](https://github.com/anuraghazra/github-readme-stats)
