@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=feat&layout=compact&langs_count=8)](https://github.com/featt/github-readme-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=feat&hide_progress=false&layout=compact" alt="tyrkinn" />
+
+
